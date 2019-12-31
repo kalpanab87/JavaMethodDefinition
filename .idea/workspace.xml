@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="707e5727-65d6-482b-b554-dcc078569ce6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern2_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnProgramming/MethodDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnProgramming/MethodDefinition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MethodDefinition">
     <configuration name="MethodDefinition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnProgramming.MethodDefinition" />
       <module name="JavaMethodDefinition" />
@@ -48,9 +48,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern2_3" />
+      <module name="JavaMethodDefinition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MethodDefinition" />
+        <item itemvalue="Application.Pattern2_3" />
       </list>
     </recent_temporary>
   </component>
@@ -104,10 +112,14 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1577632420380" />
-    <state x="0" y="0" key="new project wizard" timestamp="1576426441925">
+    <state x="220" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1577806946626">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1024.728@0.0.1024.728" timestamp="1576426441925" />
+    <state x="220" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1577806946626" />
+    <state x="0" y="0" key="new project wizard" timestamp="1577715476798">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1024.728@0.0.1024.728" timestamp="1577715476798" />
     <state x="168" y="162" key="run.anything.popup" timestamp="1577632337131">
       <screen x="0" y="0" width="1024" height="728" />
     </state>

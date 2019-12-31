@@ -7,8 +7,8 @@ public class MethodDefinition {
         MethodDefinition myMethodDefinition = new MethodDefinition();
 
         result2 = myMethodDefinition.mySum(1,2);
-        result3 = myMethodDefinition.mySum(a: 1,b:2,c:3);
-        result4 = myMethodDefinition.mySum(a: 1,b:2,c:3,d:4);
+        result3 = myMethodDefinition.mySum( 1,2,3);
+        result4 = myMethodDefinition.mySum( 1,2,3,4);
 //        myMethodDefinition.mySum();
         System.out.println(result2);
 

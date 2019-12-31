@@ -3,8 +3,9 @@ public class Pattern2_3 {
 
         Pattern2_3 MyPattern2 = new Pattern2_3();
 
-        MyPattern2.pattern2();
-        MyPattern2.pattern3();
+        //MyPattern2.pattern2();
+        //MyPattern2.pattern3();
+        MyPattern2.pattern4();
 
     }
     public void pattern2()
@@ -35,10 +36,11 @@ public class Pattern2_3 {
 
     public void pattern4()
     {
-        int i,j;
-        for(i=0;i>0;i++){
-            System.out.printf("\b\b\b\b*");}
-        System.out.println();
+        int i,j=1;
+        for(i=1;i>5-j;i++){
+            System.out.println();}
+        for(i=5,j=1;(j<5)&&(i>0);i--,j++){
+        System.out.println("*");}
 
     }
 }
